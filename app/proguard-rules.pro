@@ -3,4 +3,4 @@
 -keepclassmembers class * {
     @android.webkit.JavascriptInterface <methods>;
 }
--keep class app.vercel.fluentstepaicou.** { *; }
+-keep class app.vercel.fluentstepaicou74w0.** { *; }
