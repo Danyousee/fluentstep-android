@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'app.vercel.fluentstepaicou74w0lprm'
+    namespace 'app.vercel.fluentstepv06'
     compileSdk 34
 
     defaultConfig {
-        applicationId "app.vercel.fluentstepaicou74w0lprm"
+        applicationId "app.vercel.fluentstepv06"
         minSdk 24
         targetSdk 34
         versionCode 1

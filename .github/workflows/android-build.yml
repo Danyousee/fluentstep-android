@@ -47,6 +47,6 @@ jobs:
           echo "============================================"
           echo "✅ Android APK successfully compiled!"
           echo "App Name: FluentStep"
-          echo "Package ID: app.vercel.fluentstepaicou74w0lprm"
+          echo "Package ID: app.vercel.fluentstepv06"
           echo "Target Version: 1.0.0 (1)"
           echo "============================================"
