@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FluentStep</string>
-    <string name="package_name">app.vercel.fluentstepv06</string>
+    <string name="package_name">app.vercel.fluentstepv09</string>
     <string name="target_url">https://fluent-step-omega.vercel.app/</string>
 </resources>
